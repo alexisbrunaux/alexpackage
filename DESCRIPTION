@@ -1,0 +1,16 @@
+Package: alexpackage
+Title: The package "alexpackage" allows you to study and summary datas from the US National Highway Traffic Safety Administration's Fatality Analysis Reporting
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Alexis",
+           family = "Brunaux",
+           role = c("aut", "cre"),
+           email = "alexis@brunaux.fr",
+           comment = c(ORCID = "0000-0002-4692-8002"))
+Description: The package "alexpackage" allows you to study and summary datas from the US National Highway Traffic Safety Administration's Fatality Analysis Reporting System, which is a nationwide census providing the American public yearly data regarding fatal injuries suffered in motor vehicle traffic crashes. You can doqnload the datas at the url:
+https://www.nhtsa.gov/Data/Fatality-Analysis-Reporting-System-(FARS).
+License: `use_gpl3_license()`
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
